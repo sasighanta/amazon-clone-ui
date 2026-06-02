@@ -6,6 +6,10 @@ A responsive Amazon homepage clone built using HTML and CSS. This project focuse
 
 🔗 https://sasighanta.github.io/amazon-clone-ui/
 
+## Screenshot
+
+![Amazon Clone UI](amazon-clone-ui.png)
+
 ## Features
 
 - Amazon-inspired homepage design
