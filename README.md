@@ -8,7 +8,7 @@ A responsive Amazon homepage clone built using HTML and CSS. This project replic
 
 ## Screenshot
 
-![Amazon Clone UI](assets/amazon-clone-ui.png)
+![Amazon Clone UI](amazon-clone-ui.png)
 
 ## Features
 
