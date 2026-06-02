@@ -38,13 +38,14 @@ amazon-clone-ui/
 ├── index.html
 ├── style.css
 └── assets/
-Future Improvements
-Add product search functionality
-Implement shopping cart features
-Add JavaScript interactions
-Improve mobile responsiveness
-Author
 
+## Future Improvements
+- Add product search functionality
+- Implement shopping cart features
+- Add JavaScript interactions
+- Improve mobile responsiveness
+
+## Author
 Ghanta Sasi Sai Tulasi
 
 GitHub: https://github.com/sasighanta
