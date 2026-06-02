@@ -1,6 +1,6 @@
 # Amazon Clone UI
 
-A responsive Amazon homepage clone built using HTML and CSS. This project focuses on recreating the user interface and layout of Amazon's homepage to practice frontend development skills.
+A responsive Amazon homepage clone built using HTML and CSS. This project replicates the look and feel of Amazon's homepage and helped me strengthen my frontend development skills.
 
 ## Live Demo
 
@@ -8,28 +8,21 @@ A responsive Amazon homepage clone built using HTML and CSS. This project focuse
 
 ## Screenshot
 
-![Amazon Clone UI](amazon-clone-ui.png)
+![Amazon Clone UI](assets/amazon-clone-ui.png)
 
 ## Features
 
-- Amazon-inspired homepage design
 - Responsive navigation bar
-- Search bar layout
-- Product category sections
+- Search bar interface
 - Hero banner section
-- Responsive design using modern CSS
+- Product category cards
+- Amazon-inspired UI design
+- Responsive layout using CSS
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-
-## Learning Outcomes
-
-- Responsive web design
-- Flexbox and CSS layouts
-- UI replication from real-world websites
-- Semantic HTML structure
 
 ## Project Structure
 
@@ -38,14 +31,26 @@ amazon-clone-ui/
 ├── index.html
 ├── style.css
 └── assets/
+    └── amazon-clone-ui.png
+```
+
+## Learning Outcomes
+
+- Semantic HTML
+- CSS Flexbox
+- Responsive Design
+- UI Replication
+- Layout Design
 
 ## Future Improvements
+
 - Add product search functionality
 - Implement shopping cart features
 - Add JavaScript interactions
 - Improve mobile responsiveness
 
 ## Author
+
 Ghanta Sasi Sai Tulasi
 
 GitHub: https://github.com/sasighanta
